@@ -1,0 +1,28 @@
+body {
+    background-color: #1e2d2f;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 20px auto;
+    width: 60%;
+    padding: 20px;
+    background-color: #111;
+    border: 5px solid red;
+}
+
+h1 {
+    color: white;
+    background-color: #3a2a2a;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.box {
+    background-color: #66ffcc;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 20px;
+}
